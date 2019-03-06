@@ -1,0 +1,19 @@
+远程监控jvm
+1、catalina.sh添加jmx
+JAVA_OPTS="-Djava.rmi.server.hostname=192.168.2.228 
+-Dcom.sun.management.jmxremote.port=8110 
+-Dcom.sun.management.jmxremote.rmi.port=8110 
+-Dcom.sun.management.jmxremote.ssl=false 
+-Dcom.sun.management.jmxremote.authenticate=false"
+hostname：ip
+port：未被占用的port
+authenticate设置为false则不需要输入用户和密码
+查看端口是否被占用：netstat -tunlp | grep 8110
+2、防火墙：vi /etc/sysconfig/iptables
+-A INPUT -m state --state NEW -m tcp -p tcp --dport 8110 -j ACCEPT
+重启：service iptables restart
+查看防火墙规则：iptables -nvL --line-number
+-L 查看当前表的所有规则，默认查看的是filter表，如果要查看NAT表，可以加上-t NAT参数
+-n 不对ip地址进行反查，加上这个参数显示速度会快很多
+-v 输出详细信息，包含通过该规则的数据包数量，总字节数及相应的网络接口
+–-line-number 显示规则的序列号，这个参数在删除或修改规则时会用到
