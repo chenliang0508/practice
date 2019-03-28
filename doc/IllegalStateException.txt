@@ -1,0 +1,103 @@
+﻿2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:54)     url:https://vpay.upcard.com.cn/culsite/culapp/multiCardAutoConsumeByTranId?
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:hid[hyhz_cul_hid]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:consumeChannel[UT]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:txntime[101712]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:mac[7f94a4033c224018c4349f41f4bd17fa]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:isPartConsume[N]
+----------custom/bindCardList 时间差-----------------0秒
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:url[https://vpay.upcard.com.cn/culsite/culapp/multiCardAutoConsumeByTranId]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:apikey[20190318]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:timestamp[1553134632]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:terminal[02199373]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:secretKey[rZFLyIEj6B5w13E0onTEMSaoNO2019]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:totalAmount[0.01]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:tranId[2336000083172209164]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:merchantNo[1022100899985111]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:txndate[20190321]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.util.HttpRequestUtils(:64)     parameter:orderId[UT201911117]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.interceptor.HttpRequestLogInterceptor(:77)     -------end of httpRequest log---------
+2019-03-21 10:17:09 [catalina-exec-45] - [INFO] com.cul.culsite.controller.BaseController(:125)     {"amount":"2","code":"00","msg":"查询成功","orderLimitInfoList":[],"qryBindCardData":{"availableAmount":"1072.36","cardExtInfo":[{"bindType":"CARD","cardBalance":"0.00","cardExpiredDate":"9912","cardLever":"P","cardName":"步步高虚拟主卡","cardNo":"2336730830000010853","hotReason":"","isConsume":"Y","isVirtualCard":"Y","status":"A"},{"bindType":"CARD","cardBalance":"1072.36","cardExpiredDate":"2203","cardLever":"S","cardName":"步步高商业连锁","cardNo":"2336730860056483605","hotReason":"","isConsume":"Y","isVirtualCard":"N","status":"A"}],"code":"00","msg":"查询成功","totalAmount":"1072.36"},"success":true}
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.annotation.RedisLockAspect(:221)     all value of fieldName is [7f94a4033c224018c4349f41f4bd17fa]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.annotation.RedisLockAspect(:232)     redis lock key is :com.cul.culsite.controller.CulAppController-multiCardAutoConsumeByTranId-[interface javax.servlet.http.HttpServletRequest]-[7f94a4033c224018c4349f41f4bd17fa]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.annotation.RedisLockAspect(:234)     redisLockBean :RedisLockBean [key=vpay:redis:lock:com.cul.culsite.controller.CulAppController-multiCardAutoConsumeByTranId-[interface javax.servlet.http.HttpServletRequest]-[7f94a4033c224018c4349f41f4bd17fa], timeInSecond=5, codeName=code, msgName=msg, code=09, msg=重复提交, isAtController=true, isAtService=false, isAtParameter=false, returnType=null]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.annotation.RedisLockAspect(:58)     redis lock value is :64947714302531049
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.impl.RedisServiceImpl(:90)     redis mutil for get lock result is :[true, true]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.impl.RedisServiceImpl(:107)     加锁成功.......
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.annotation.RedisLockAspect(:94)     get redis lock success for vpay:redis:lock:com.cul.culsite.controller.CulAppController-multiCardAutoConsumeByTranId-[interface javax.servlet.http.HttpServletRequest]-[7f94a4033c224018c4349f41f4bd17fa]
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.impl.CulAppServiceImpl(:3448)     bankCode>>>>>>>VCDC_SCANPAY
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.impl.CulAppServiceImpl(:3462)     调用第三方支付工厂消费...
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.payonline.handler.PayOnLineHandlerFactory(:22)     create pay on line handler....
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.payonline.handler.PayOnLineHandlerFactory(:56)     create VCDC_SCANPAY  on line handler
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.service.payonline.handler.VCDCPayOnlineHandler(:67)     enter vcdcPay cosume ...
+java.lang.IllegalStateException: No value for key [org.apache.commons.dbcp.BasicDataSource@49b35574] bound to thread [catalina-exec-56]
+        at org.springframework.transaction.support.TransactionSynchronizationManager.unbindResource(TransactionSynchronizationManager.java:209)
+        at org.springframework.jdbc.datasource.DataSourceTransactionManager.doCleanupAfterCompletion(DataSourceTransactionManager.java:305)
+        at org.springframework.transaction.support.AbstractPlatformTransactionManager.cleanupAfterCompletion(AbstractPlatformTransactionManager.java:1008)
+        at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:804)
+        at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:723)
+        at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:392)
+        at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:120)
+        at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+        at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:90)
+        at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+        at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+        at $Proxy187.consumeByTranId(Unknown Source)
+        at com.cul.culsite.controller.CulAppController.multiCardAutoConsumeByTranId(CulAppController.java:1803)
+        at com.cul.culsite.controller.CulAppController$$FastClassByCGLIB$$d061ffa7.invoke(<generated>)
+        at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:204)
+        at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:698)
+        at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+        at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+        at com.cul.culsite.annotation.RedisLockAspect.redisLockParse(RedisLockAspect.java:106)
+        at sun.reflect.GeneratedMethodAccessor608.invoke(Unknown Source)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+        at java.lang.reflect.Method.invoke(Method.java:597)
+        at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+        at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+        at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+        at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+        at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:90)
+        at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+        at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:631)
+        at com.cul.culsite.controller.CulAppController$$EnhancerByCGLIB$$d993159b.multiCardAutoConsumeByTranId(<generated>)
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+        at java.lang.reflect.Method.invoke(Method.java:597)
+        at org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:219)
+        at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)
+        at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)
+        at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:746)
+        at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:687)
+        at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:80)
+        at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:925)
+        at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:856)
+        at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:915)
+        at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:822)
+:        at javax.servlet.http.HttpServlet.service(HttpServlet.java:643)
+        at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:796)
+        at javax.servlet.http.HttpServlet.service(HttpServlet.java:723)
+        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+        at com.cul.zhoup.util.pager.PagerFilter.doFilter(PagerFilter.java:35)
+        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+        at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)
+        at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+        at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+        at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+        at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+        at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+        at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+        at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293)
+        at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:861)
+        at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:606)
+        at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:396)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+        at java.lang.Thread.run(Thread.java:662)
+2019-03-21 10:17:09 [catalina-exec-56] - [DEBUG] com.cul.culsite.controller.BaseController(:82)     [req] https://vpay.upcard.com.cn/culsite/culapp/multiCardAutoConsumeByTranId
+2019-03-21 10:17:09 [catalina-exec-56] - [INFO] com.cul.culsite.controller.BaseController(:125)     {"code":"99","msg":"java.lang.IllegalStateException: No value for key [org.apache.commons.dbcp.BasicDataSource@49b35574] bound to thread [catalina-exec-56]"}
+20
