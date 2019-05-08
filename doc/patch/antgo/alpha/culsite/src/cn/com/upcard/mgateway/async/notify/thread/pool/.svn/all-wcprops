@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/thread/pool
+END
+NotifyExcecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/thread/pool/NotifyExcecutor.java
+END
+NotifyTaskExcecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/thread/pool/NotifyTaskExcecutor.java
+END

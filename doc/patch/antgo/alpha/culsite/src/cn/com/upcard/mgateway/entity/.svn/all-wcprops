@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mgateway/!svn/ver/451/trunk/mgateway/src/cn/com/upcard/mgateway/entity
+END
+TpAcquirer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mgateway/!svn/ver/123/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpAcquirer.java
+END
+TpCulCommPayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/451/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpCulCommPayType.java
+END
+OrderDiscountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/359/trunk/mgateway/src/cn/com/upcard/mgateway/entity/OrderDiscountInfo.java
+END
+OrderOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mgateway/!svn/ver/371/trunk/mgateway/src/cn/com/upcard/mgateway/entity/OrderOper.java
+END
+TpCulCommerical.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mgateway/!svn/ver/451/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpCulCommerical.java
+END
+TpPaymentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/123/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpPaymentType.java
+END
+TpPayChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mgateway/!svn/ver/445/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpPayChannel.java
+END
+TpAcquireTxnPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpAcquireTxnPriority.java
+END
+ApiLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/359/trunk/mgateway/src/cn/com/upcard/mgateway/entity/ApiLog.java
+END
+PushInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/359/trunk/mgateway/src/cn/com/upcard/mgateway/entity/PushInfo.java
+END
+TpCommericalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/123/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpCommericalInfo.java
+END
+TradeOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mgateway/!svn/ver/371/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TradeOrder.java
+END
+TpCommPayTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/123/trunk/mgateway/src/cn/com/upcard/mgateway/entity/TpCommPayTypes.java
+END

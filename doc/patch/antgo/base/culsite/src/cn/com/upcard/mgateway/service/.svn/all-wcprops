@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service
+END
+GatewayService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/GatewayService.java
+END
+OrderOperService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/OrderOperService.java
+END
+SessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/SessionService.java
+END
+CommericalInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/CommericalInfoService.java
+END
+ApiLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/ApiLogService.java
+END
+CallbackService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/CallbackService.java
+END
+CommericalRightsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/CommericalRightsService.java
+END
+CombinationParamValidateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/CombinationParamValidateService.java
+END

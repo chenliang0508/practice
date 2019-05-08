@@ -1,0 +1,72 @@
+@charset "utf-8";
+html {font-size:62.5%;height: 100%;-webkit-font-smoothing:antialiased;}
+body {text-align:center;background: #f5f6f6;font-size:1.4rem; font-family:"黑体","Microsoft YaHei","Helvetica Neue",Helvetica,STHeiTi,sans-serif; -webkit-text-size-adjust:none;}
+* {margin:0; padding:0;list-style:none;}
+i, em, b { font-style:normal; font-weight:normal;}
+input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{color:#ccc;}
+img{width:100%;border: 0;vertical-align: middle;}
+input,textarea,select,button{-webkit-appearance:none;font-size:1.4rem;border:0;font-family:"黑体","Microsoft YaHei","Helvetica Neue",Helvetica,STHeiTi,sans-serif; outline:none;}
+input,a,span{-webkit-tap-highlight-color: rgba(0,0,0,0);}
+
+/*杂项*/
+.clear_fix{clear:both !important;}
+.none{display:none !important;}
+.hide{visibility:hidden !important;}
+
+/*一像素边*/
+.border{position:relative;}
+.border:before{content:"";position:absolute;left:0;top:0;right:-100%;bottom:-100%;-webkit-transform:scale(0.5);-webkit-transform-origin:0 0;pointer-events:none;}
+.b_full:before{border: 1px solid #d1d1d1;}
+.b_btm:before{border-bottom: 1px solid #d1d1d1;}
+.b_lft:before{border-left: 1px solid #d1d1d1;}
+.b_rgt:before{border-right: 1px solid #d1d1d1;}
+.b_top:before{border-top: 1px solid #d1d1d1;}
+.b_top_btm:before{border-top: 1px solid #d1d1d1;border-bottom: 1px solid #d1d1d1;}
+
+.b_full2:before{border: 1px solid #0077c3;}
+.b_top2:before{border-top: 1px dashed #d1d1d1;}
+
+
+
+
+/*按钮点击样式*/
+.pop_wraper{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.2);display:table;height:100%;width:100%;z-index:1110;}
+.pop_outer{display:table-cell;vertical-align:middle;}
+.pop_otop{display:table-cell;vertical-align:top;}
+.pop_obottom{display:table-cell;vertical-align:bottom;}
+
+.blue_btn{display: block;width: 100%;font-size: 1.8rem;height: 4.5rem;line-height: 4.5rem;color: #fff;background: #0077c3;border-radius: 5px;}
+.blue_btn:active{background: #0B659E;}
+.white_btn{display: block;width: 100%;font-size: 1.8rem;height: 4.5rem;line-height: 4.5rem;color: #333;background: #fff;border-radius: 5px;}
+.white_btn.b_full:before{border-radius: 10px;}
+.white_btn:active{background: #eee;}
+
+/* header */
+.header{ height:4.5rem; padding-left:1.5rem; background:#fff; display:-webkit-box; -webkit-box-align:center; -webkit-box-pack:justify; position:relative;}
+.header .location{ display:block; padding-right:1.8rem; background:url(../image/arrow_down.png) right center no-repeat; background-size:1.2rem 0.7rem; font-size:1.5rem; color:#666;}
+.header .menu{ display:block; width:5rem; height:4.5rem; background:url(../image/menu.png) center no-repeat; background-size:2rem 1.6rem;}
+.header .menu_wrap{ width:15.5rem; background:#fff; box-shadow:0 0 2px 2px rgba(204,204,204,0.4); position:absolute; top:4.5rem; right:1.5rem; z-index:999;}
+.header .menu_wrap .triangle{ position:absolute; top:-0.4rem; right:0.6rem; z-index:999; width:0.8rem; height:0.8rem; background:#fff; -webkit-transform:rotate(45deg); box-shadow:-2px -2px 1px 1px rgba(204,204,204,0.2);}
+.header .menu_wrap ul{ padding-left:1rem;}
+.header .menu_wrap li{ height:4.5rem; line-height:4.5rem; padding-left:0.5rem; text-align:left; font-size:1.5rem; color:#333;}
+.header .menu_wrap li:active{color: #0077c3;}
+.bg_gray{ background:#f5f6f6;}
+
+.pad{margin: 2rem;}
+/*flex布局*/
+html,body{height:100%;}
+.container{height:100%;}/*平台加载页面时自动添加的div样式，使用flex上下布局的话，必须添加*/
+.flex{display:-webkit-box;-webkit-box-orient:vertical;height:100%;}
+.flex .content{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;overflow:auto;-webkit-overflow-scrolling:touch; position:relative;}
+
+/*boxgray布局*/
+html,body{height:100%;}
+.container{height:100%;}/*平台加载页面时自动添加的div样式，使用boxgray上下布局的话，必须添加*/
+.boxgray{display:-webkit-box;-webkit-box-orient:vertical;height:100%;}
+.boxgray .content{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;overflow:auto;-webkit-overflow-scrolling:touch; position:relative;}
+
+/* box布局 */
+html,body{height:100%;}
+.container{height:100%;}/*平台加载页面时自动添加的div样式，使用box上下布局的话，必须添加*/
+.box{display:-webkit-box;-webkit-box-orient:vertical;height:100%;}
+.box .content{-webkit-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1;overflow:auto;-webkit-overflow-scrolling:touch; position:relative;}

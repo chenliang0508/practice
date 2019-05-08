@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mgateway/!svn/ver/331/trunk/mgateway/test/cn/com/upcard/mgateway/dao/impl
+END
+TradeOrderDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mgateway/!svn/ver/331/trunk/mgateway/test/cn/com/upcard/mgateway/dao/impl/TradeOrderDAOTest.java
+END
+RedisDaoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/280/trunk/mgateway/test/cn/com/upcard/mgateway/dao/impl/RedisDaoImplTest.java
+END

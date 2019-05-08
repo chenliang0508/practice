@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mgateway/!svn/ver/548/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/weixin
+END
+weixin-qr-jspay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mgateway/!svn/ver/387/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/weixin/weixin-qr-jspay.jsp
+END
+weixin-qr-pay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/548/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/weixin/weixin-qr-pay.jsp
+END
+pay-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/541/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/weixin/pay-success.jsp
+END
+pay-fail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mgateway/!svn/ver/541/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/weixin/pay-fail.jsp
+END

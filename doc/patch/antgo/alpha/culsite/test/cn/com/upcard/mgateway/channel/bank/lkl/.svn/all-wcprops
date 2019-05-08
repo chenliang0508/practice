@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mgateway/!svn/ver/551/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl
+END
+MirocCancelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/462/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocCancelTest.java
+END
+MirocQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/462/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocQueryTest.java
+END
+MirocPayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/462/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocPayTest.java
+END
+MirocRefundQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/433/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocRefundQueryTest.java
+END
+NativePrePayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/462/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/NativePrePayTest.java
+END
+NativeCloseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/462/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/NativeCloseTest.java
+END
+MirocRefundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/462/trunk/mgateway/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocRefundTest.java
+END

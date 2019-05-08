@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/qr
+END
+QrPayHandleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/qr/QrPayHandleFactory.java
+END
+WXpayQrPayHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/qr/WXpayQrPayHandle.java
+END
+AlipayQrPayHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/qr/AlipayQrPayHandle.java
+END
+QrPayHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/qr/QrPayHandle.java
+END
+DefaultQrPayHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/service/qr/DefaultQrPayHandle.java
+END

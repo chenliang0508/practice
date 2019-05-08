@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mgateway/!svn/ver/541/trunk/mgateway/WebRoot/WEB-INF/config
+END
+spring-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mgateway/!svn/ver/496/trunk/mgateway/WebRoot/WEB-INF/config/spring-dao.xml
+END
+spring-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mgateway/!svn/ver/541/trunk/mgateway/WebRoot/WEB-INF/config/spring-servlet.xml
+END
+spring-redis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mgateway/!svn/ver/376/trunk/mgateway/WebRoot/WEB-INF/config/spring-redis.xml
+END

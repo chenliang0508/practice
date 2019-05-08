@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request
+END
+WxNativePayParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/WxNativePayParam.java
+END
+AlipayNativePayParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/AlipayNativePayParam.java
+END
+QrCodeOrderPayParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/436/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/QrCodeOrderPayParam.java
+END
+TradeCancelParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/TradeCancelParam.java
+END
+TradeCloseParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/359/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/TradeCloseParam.java
+END
+WxJsPayParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/WxJsPayParam.java
+END
+AlipayJsapiParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/AlipayJsapiParam.java
+END
+QrCreateParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/314/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/QrCreateParam.java
+END
+UnifiedRefundParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/UnifiedRefundParam.java
+END
+UnifiedTradeQueryParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/UnifiedTradeQueryParam.java
+END
+BaseParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/331/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/BaseParam.java
+END
+MicroPayRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/460/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/MicroPayRequest.java
+END
+UnifiedRefundQueryParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mgateway/!svn/ver/493/trunk/mgateway/src/cn/com/upcard/mgateway/controller/request/UnifiedRefundQueryParam.java
+END

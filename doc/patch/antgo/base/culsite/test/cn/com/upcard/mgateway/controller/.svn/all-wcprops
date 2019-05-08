@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller
+END
+GatewayControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/GatewayControllerTest.java
+END
+TradeCancelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/TradeCancelTest.java
+END
+WxNativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/WxNativeTest.java
+END
+AlipayJsapiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/AlipayJsapiTest.java
+END
+MicroPayQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/MicroPayQueryTest.java
+END
+TradeQueryTimerTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/TradeQueryTimerTaskTest.java
+END
+NotifyTestController.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/NotifyTestController.java
+END
+ControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/ControllerTest.java
+END
+MicroPayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/MicroPayTest.java
+END
+CreateQrCodeUrlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/CreateQrCodeUrlTest.java
+END
+OnlineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/OnlineTest.java
+END
+AlipayNativeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/AlipayNativeTest.java
+END
+MicropayControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/MicropayControllerTest.java
+END
+UnifiedRefundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/UnifiedRefundTest.java
+END
+WxJsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/controller/WxJsTest.java
+END

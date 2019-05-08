@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mgateway/!svn/ver/514/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response
+END
+MicroPayResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/426/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/MicroPayResponse.java
+END
+TradeRefundResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/432/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/TradeRefundResponse.java
+END
+QRCodePreResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/314/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/QRCodePreResponse.java
+END
+TradeCancelResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/400/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/TradeCancelResponse.java
+END
+TradeQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/514/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/TradeQueryResponse.java
+END
+TradecloseResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/130/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/TradecloseResponse.java
+END
+WxNativeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/223/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/WxNativeResponse.java
+END
+AlipayJsapiResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/322/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/AlipayJsapiResponse.java
+END
+AlipayNativeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/282/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/AlipayNativeResponse.java
+END
+RefundQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/514/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/RefundQueryResponse.java
+END
+BaseResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/452/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/BaseResponse.java
+END
+WxJsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/411/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/WxJsResponse.java
+END
+QRCodeResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/280/trunk/mgateway/src/cn/com/upcard/mgateway/controller/response/QRCodeResponse.java
+END

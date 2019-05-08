@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/540/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util
+END
+XmlSignUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/540/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/XmlSignUtil.java
+END
+XmlSignatureAppendMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mgateway/!svn/ver/111/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/XmlSignatureAppendMode.java
+END
+HttpClientMyBank.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mgateway/!svn/ver/466/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/HttpClientMyBank.java
+END
+HttpsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/111/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/HttpsUtil.java
+END
+SignatureUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mgateway/!svn/ver/336/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/SignatureUtils.java
+END
+RSA.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/111/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/RSA.java
+END
+PreNoticeXmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mgateway/!svn/ver/455/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/PreNoticeXmlUtil.java
+END
+SFTPUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/111/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/SFTPUtil.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/111/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/Util.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/111/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/util/XmlUtil.java
+END

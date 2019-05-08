@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mgateway/!svn/ver/505/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/common
+END
+CibServiceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/397/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/common/CibServiceType.java
+END
+CibTradeStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/386/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/common/CibTradeStatus.java
+END
+CibResponseCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/505/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/common/CibResponseCode.java
+END
+CibPayLimitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/359/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/common/CibPayLimitType.java
+END
+CibConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/289/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/common/CibConstants.java
+END

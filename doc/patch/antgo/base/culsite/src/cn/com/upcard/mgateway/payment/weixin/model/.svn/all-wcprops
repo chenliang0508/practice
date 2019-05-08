@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/weixin/model
+END
+WxBaseRespInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/weixin/model/WxBaseRespInfo.java
+END
+AccessToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/weixin/model/AccessToken.java
+END

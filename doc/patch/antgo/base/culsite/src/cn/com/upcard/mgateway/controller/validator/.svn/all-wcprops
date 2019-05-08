@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/controller/validator
+END
+ResquestSignValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/controller/validator/ResquestSignValidator.java
+END
+QrCodeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/controller/validator/QrCodeValidator.java
+END
+ValidateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/controller/validator/ValidateUtil.java
+END

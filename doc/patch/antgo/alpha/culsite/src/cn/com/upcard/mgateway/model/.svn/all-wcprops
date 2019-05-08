@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/model
+END
+CancelTradeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/model/CancelTradeInfo.java
+END
+CodeMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/202/trunk/mgateway/src/cn/com/upcard/mgateway/model/CodeMsg.java
+END
+CommercialArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/209/trunk/mgateway/src/cn/com/upcard/mgateway/model/CommercialArguments.java
+END
+ChannelResponseInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/534/trunk/mgateway/src/cn/com/upcard/mgateway/model/ChannelResponseInfo.java
+END
+ChannelRequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/model/ChannelRequestInfo.java
+END
+NotifyRequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/256/trunk/mgateway/src/cn/com/upcard/mgateway/model/NotifyRequestInfo.java
+END
+PreTradeOrderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/460/trunk/mgateway/src/cn/com/upcard/mgateway/model/PreTradeOrderInfo.java
+END

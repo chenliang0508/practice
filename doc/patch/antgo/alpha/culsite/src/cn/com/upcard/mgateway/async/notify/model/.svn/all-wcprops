@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/model
+END
+CallbackPara.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/model/CallbackPara.java
+END
+CallbackRequestInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/model/CallbackRequestInfo.java
+END
+OrderProcessingResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/model/OrderProcessingResult.java
+END
+NotifyPara.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify/model/NotifyPara.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/alipay
+END
+UserInfoRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/alipay/UserInfoRequest.java
+END
+AlipaySignBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/alipay/AlipaySignBean.java
+END
+AlipayApiContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/alipay/AlipayApiContext.java
+END
+AlipayClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/alipay/AlipayClient.java
+END
+AlipayRequestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/payment/alipay/AlipayRequestBean.java
+END

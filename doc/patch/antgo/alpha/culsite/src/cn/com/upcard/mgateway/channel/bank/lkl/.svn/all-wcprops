@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mgateway/!svn/ver/551/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl
+END
+LKLNativeTradeOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LKLNativeTradeOper.java
+END
+LklApiContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LklApiContext.java
+END
+LklSignTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LklSignTool.java
+END
+TradeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/TradeType.java
+END
+LKLMicroTradeOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LKLMicroTradeOper.java
+END
+FunCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/FunCode.java
+END
+PayChannelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/PayChannelType.java
+END
+LklTradeStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mgateway/!svn/ver/376/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LklTradeStatus.java
+END
+RevokType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/RevokType.java
+END
+LKLPayTradeOperDefaultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mgateway/!svn/ver/551/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LKLPayTradeOperDefaultImpl.java
+END
+LklError.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/LklError.java
+END
+Sha1.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/314/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/Sha1.java
+END
+AlipayNativeTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/lkl/AlipayNativeTradeOperImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/124/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/sdk/util
+END
+SignUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/124/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/sdk/util/SignUtils.java
+END
+XmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/59/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/sdk/util/XmlUtils.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/29/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/sdk/util/MD5.java
+END

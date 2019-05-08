@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient
+END
+HttpProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient/HttpProtocolHandler.java
+END
+HttpResultType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient/HttpResultType.java
+END
+AlipaySubmit.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient/AlipaySubmit.java
+END
+AlipayCore.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient/AlipayCore.java
+END
+HttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient/HttpRequest.java
+END
+HttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/payment/alipay/httpClient/HttpResponse.java
+END

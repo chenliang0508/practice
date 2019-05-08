@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/util
+END
+TimeProfiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mgateway/!svn/ver/393/trunk/mgateway/src/cn/com/upcard/mgateway/util/TimeProfiler.java
+END
+StringTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/280/trunk/mgateway/src/cn/com/upcard/mgateway/util/StringTool.java
+END
+DateSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/util/DateSerializer.java
+END
+HttpRequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/144/trunk/mgateway/src/cn/com/upcard/mgateway/util/HttpRequestUtils.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/util/DateUtil.java
+END
+GsonBuilderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/util/GsonBuilderUtil.java
+END
+HttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/331/trunk/mgateway/src/cn/com/upcard/mgateway/util/HttpClient.java
+END
+DateDeserializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/util/DateDeserializer.java
+END
+XmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/456/trunk/mgateway/src/cn/com/upcard/mgateway/util/XmlUtils.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mgateway/!svn/ver/11/trunk/mgateway/src/cn/com/upcard/mgateway/util/MD5.java
+END
+DumpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mgateway/!svn/ver/244/trunk/mgateway/src/cn/com/upcard/mgateway/util/DumpUtils.java
+END
+RandomStringCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/util/RandomStringCreator.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/util/JsonUtils.java
+END
+BaseHttpSSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mgateway/!svn/ver/7/trunk/mgateway/src/cn/com/upcard/mgateway/util/BaseHttpSSLSocketFactory.java
+END
+ParamProcessUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mgateway/!svn/ver/9/trunk/mgateway/src/cn/com/upcard/mgateway/util/ParamProcessUtil.java
+END
+SignUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/477/trunk/mgateway/src/cn/com/upcard/mgateway/util/SignUtil.java
+END

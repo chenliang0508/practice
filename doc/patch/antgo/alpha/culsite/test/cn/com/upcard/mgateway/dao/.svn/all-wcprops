@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mgateway/!svn/ver/491/trunk/mgateway/test/cn/com/upcard/mgateway/dao
+END
+TpCommericalInfoDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/450/trunk/mgateway/test/cn/com/upcard/mgateway/dao/TpCommericalInfoDAOTest.java
+END
+TradeOrderDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mgateway/!svn/ver/491/trunk/mgateway/test/cn/com/upcard/mgateway/dao/TradeOrderDAOTest.java
+END
+TpPayChannelDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/445/trunk/mgateway/test/cn/com/upcard/mgateway/dao/TpPayChannelDAOTest.java
+END
+TpAcquireTxnPriorityDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/445/trunk/mgateway/test/cn/com/upcard/mgateway/dao/TpAcquireTxnPriorityDAOTest.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao
+END
+ApiLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/ApiLogDAO.java
+END
+PushInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/PushInfoDAO.java
+END
+TpCommericalInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpCommericalInfoDAO.java
+END
+TradeOrderDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TradeOrderDAO.java
+END
+TpCommPayTypesDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpCommPayTypesDAO.java
+END
+TpAcquirerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpAcquirerDAO.java
+END
+TpCulCommPayTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpCulCommPayTypeDAO.java
+END
+OrderDiscountInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/OrderDiscountInfoDAO.java
+END
+OrderOperDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/OrderOperDAO.java
+END
+TpCulCommericalDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpCulCommericalDAO.java
+END
+TpPaymentTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpPaymentTypeDAO.java
+END
+RedisDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/RedisDao.java
+END
+TpPayChannelDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpPayChannelDAO.java
+END
+TpAcquireTxnPriorityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/dao/TpAcquireTxnPriorityDAO.java
+END

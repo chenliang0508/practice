@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mgateway/!svn/ver/534/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cmbc/common
+END
+CMBCPayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/534/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cmbc/common/CMBCPayType.java
+END
+CMBCTradeStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/534/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cmbc/common/CMBCTradeStatus.java
+END
+CMBCQueryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/534/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cmbc/common/CMBCQueryType.java
+END
+CMBCResponseCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mgateway/!svn/ver/534/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cmbc/common/CMBCResponseCode.java
+END

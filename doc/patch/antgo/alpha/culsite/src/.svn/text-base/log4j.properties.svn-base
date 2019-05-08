@@ -1,0 +1,27 @@
+log4j.rootLogger=INFO,CONSOLE,DAILY_FILE
+
+log4j.addivity.org.apache=true
+log4j.appender.CONSOLE=org.apache.log4j.ConsoleAppender
+log4j.appender.Threshold=ERROR
+log4j.appender.CONSOLE.Target=System.out
+log4j.appender.CONSOLE.layout=org.apache.log4j.PatternLayout
+#log4j.appender.CONSOLE.layout.ConversionPattern=[framework] %d - %c -%-4r [%t] %-5p %c %x - %m%n
+log4j.appender.CONSOLE.layout.ConversionPattern=%-d{yyyy-MM-dd HH:mm:ss} [%t] - [%p] %37c(:%L) %3x %m%n
+
+log4j.appender.DAILY_FILE=org.apache.log4j.DailyRollingFileAppender 
+log4j.appender.DAILY_FILE.file=D:/logs/lkl/lkl
+log4j.appender.DAILY_FILE.DatePattern='_'yyyy-MM-dd'.log' 
+log4j.appender.DAILY_FILE.ImmediateFlush=true
+log4j.appender.DAILY_FILE.Append=true
+log4j.appender.DAILY_FILE.layout=org.apache.log4j.PatternLayout 
+log4j.appender.DAILY_FILE.layout.ConversionPattern=%-d{yyyy-MM-dd HH:mm:ss} [%t] - [%p] %37c(:%L) %3x %m%n
+
+log4j.logger.cn.com.upcard.mgateway.util = debug
+log4j.logger.cn.com.upcard.mgateway.service= info
+log4j.logger.cn.com.upcard.mgateway.dao= info
+log4j.logger.cn.com.upcard.mgateway.channel= debug
+log4j.logger.cn.com.upcard.mgateway.controller= info
+log4j.logger.org.springframework = warn
+log4j.logger.org.hibernate = warn
+log4j.logger.redis.clients = debug
+

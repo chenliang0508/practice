@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/cib
+END
+WxJsTradeOperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/cib/WxJsTradeOperTest.java
+END
+WxAppTradeOperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/cib/WxAppTradeOperTest.java
+END
+WxNativeTradeOperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/cib/WxNativeTradeOperTests.java
+END

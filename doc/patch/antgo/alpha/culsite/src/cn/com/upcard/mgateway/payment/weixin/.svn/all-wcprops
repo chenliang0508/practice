@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mgateway/!svn/ver/450/trunk/mgateway/src/cn/com/upcard/mgateway/payment/weixin
+END
+HttpClientUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/376/trunk/mgateway/src/cn/com/upcard/mgateway/payment/weixin/HttpClientUtils.java
+END
+AccessToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/payment/weixin/AccessToken.java
+END
+RestHttpClientFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/payment/weixin/RestHttpClientFactory.java
+END
+JsonParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/354/trunk/mgateway/src/cn/com/upcard/mgateway/payment/weixin/JsonParser.java
+END
+HttpClientTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mgateway/!svn/ver/376/trunk/mgateway/src/cn/com/upcard/mgateway/payment/weixin/HttpClientTool.java
+END

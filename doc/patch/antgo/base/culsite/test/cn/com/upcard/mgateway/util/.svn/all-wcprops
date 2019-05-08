@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/Utils.java
+END
+AssertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/AssertTest.java
+END
+EnumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/EnumTest.java
+END
+StringToolTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/StringToolTest.java
+END
+UUIDTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/UUIDTest.java
+END
+RandomStringCreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/RandomStringCreatorTest.java
+END
+RandomStringUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/RandomStringUtilsTest.java
+END
+JONSTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/JONSTest.java
+END
+DateUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/util/DateUtilsTest.java
+END

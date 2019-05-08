@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/common
+END
+ResponseParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/426/trunk/mgateway/src/cn/com/upcard/mgateway/common/ResponseParameter.java
+END
+Restrict.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/494/trunk/mgateway/src/cn/com/upcard/mgateway/common/Restrict.java
+END
+RedisNamespaceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/376/trunk/mgateway/src/cn/com/upcard/mgateway/common/RedisNamespaceConstants.java
+END
+RequestParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/431/trunk/mgateway/src/cn/com/upcard/mgateway/common/RequestParameter.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mgateway/!svn/ver/376/trunk/mgateway/src/cn/com/upcard/mgateway/common/Constants.java
+END

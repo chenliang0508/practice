@@ -1,0 +1,40 @@
+9
+
+dir
+551
+http://192.168.2.240:8080/svn/mgateway/trunk/mgateway/src/cn/com/upcard/mgateway/async/notify
+http://192.168.2.240:8080/svn/mgateway
+
+
+
+2017-10-18T07:31:30.406250Z
+528
+zhoudi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d3037c38-a1ca-fa42-9071-db2ca09b948a
+
+holder
+dir
+
+model
+dir
+
+service
+dir
+
+thread
+dir
+

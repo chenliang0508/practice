@@ -1,0 +1,34 @@
+9
+
+dir
+551
+http://192.168.2.240:8080/svn/mgateway/tags/online_20171019/src/cn/com/upcard/mgateway/payment
+http://192.168.2.240:8080/svn/mgateway
+
+
+
+2017-09-30T09:17:37.812500Z
+450
+huatingzhou
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d3037c38-a1ca-fa42-9071-db2ca09b948a
+
+alipay
+dir
+
+weixin
+dir
+

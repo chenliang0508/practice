@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank
+END
+WxJsTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/WxJsTradeOperImpl.java
+END
+JsUnifiedOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/JsUnifiedOper.java
+END
+ScanPayTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/ScanPayTradeOperImpl.java
+END
+AbstractUnifiedOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/AbstractUnifiedOper.java
+END
+AlipayJSPayTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/AlipayJSPayTradeOperImpl.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/common
+END
+MyBankServiceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/common/MyBankServiceType.java
+END
+ChannelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/common/ChannelType.java
+END
+MyBankResponseCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/common/MyBankResponseCode.java
+END
+MyBankPayLimitType.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/common/MyBankPayLimitType.java
+END

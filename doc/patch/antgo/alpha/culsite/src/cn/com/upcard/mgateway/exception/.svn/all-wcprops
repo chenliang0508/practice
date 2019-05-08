@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mgateway/!svn/ver/514/trunk/mgateway/src/cn/com/upcard/mgateway/exception
+END
+UndefinedTradeTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/exception/UndefinedTradeTypeException.java
+END
+OrderNoRepeatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/exception/OrderNoRepeatException.java
+END
+UnSupportApiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/exception/UnSupportApiException.java
+END
+AbnormalResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/exception/AbnormalResponseException.java
+END
+HttpNoResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/mgateway/!svn/ver/514/trunk/mgateway/src/cn/com/upcard/mgateway/exception/HttpNoResponseException.java
+END
+GatewayBusinessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/433/trunk/mgateway/src/cn/com/upcard/mgateway/exception/GatewayBusinessException.java
+END

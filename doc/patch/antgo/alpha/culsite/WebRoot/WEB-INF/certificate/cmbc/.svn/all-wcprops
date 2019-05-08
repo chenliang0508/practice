@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mgateway/!svn/ver/533/trunk/mgateway/WebRoot/WEB-INF/certificate/cmbc
+END
+cust0001.sm2
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/533/trunk/mgateway/WebRoot/WEB-INF/certificate/cmbc/cust0001.sm2
+END
+A00012017060000000691.sm2
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/533/trunk/mgateway/WebRoot/WEB-INF/certificate/cmbc/A00012017060000000691.sm2
+END
+cust0001.cer
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/533/trunk/mgateway/WebRoot/WEB-INF/certificate/cmbc/cust0001.cer
+END
+cmbcTest.cer
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/533/trunk/mgateway/WebRoot/WEB-INF/certificate/cmbc/cmbcTest.cer
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/config.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/log4j.properties
+END
+barcodeType.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/barcodeType.properties
+END

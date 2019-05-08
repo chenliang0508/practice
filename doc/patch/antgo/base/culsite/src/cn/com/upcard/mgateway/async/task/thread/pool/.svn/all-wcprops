@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/async/task/thread/pool
+END
+TradeQueryExcecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/async/task/thread/pool/TradeQueryExcecutor.java
+END
+RefundQueryExcecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/async/task/thread/pool/RefundQueryExcecutor.java
+END

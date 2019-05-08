@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml
+END
+ant.mybank.bkmerchanttrade.refund.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.refund.xml
+END
+head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/head.xml
+END
+depositconfer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/depositconfer.xml
+END
+ant.mybank.bkmerchanttrade.pay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.pay.xml
+END
+ant.mybank.bkmerchanttrade.refundQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.refundQuery.xml
+END
+origin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/origin.xml
+END
+signed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/signed.xml
+END
+ant.mybank.bkmerchanttrade.payCancel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.payCancel.xml
+END
+ant.mybank.bkmerchanttrade.payClose.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.payClose.xml
+END
+ant.mybank.bkmerchanttrade.payQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.payQuery.xml
+END
+ant.mybank.bkmerchanttrade.prePay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/mgateway/!svn/ver/550/tags/online_20171019/src/cn/com/upcard/mgateway/channel/bank/mybank/sdk/xml/ant.mybank.bkmerchanttrade.prePay.xml
+END

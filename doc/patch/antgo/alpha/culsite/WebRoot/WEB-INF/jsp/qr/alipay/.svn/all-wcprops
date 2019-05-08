@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mgateway/!svn/ver/548/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/alipay
+END
+alipay-qr-pay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mgateway/!svn/ver/548/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/alipay/alipay-qr-pay.jsp
+END
+pay-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mgateway/!svn/ver/541/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/alipay/pay-success.jsp
+END
+pay-fail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mgateway/!svn/ver/541/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/alipay/pay-fail.jsp
+END
+alipay-qr-jspay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mgateway/!svn/ver/441/trunk/mgateway/WebRoot/WEB-INF/jsp/qr/alipay/alipay-qr-jspay.jsp
+END

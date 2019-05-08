@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mgateway/!svn/ver/543/trunk/mgateway/src/cn/com/upcard/mgateway/controller
+END
+CallbackController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mgateway/!svn/ver/538/trunk/mgateway/src/cn/com/upcard/mgateway/controller/CallbackController.java
+END
+TimerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mgateway/!svn/ver/529/trunk/mgateway/src/cn/com/upcard/mgateway/controller/TimerController.java
+END
+GatewayController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/541/trunk/mgateway/src/cn/com/upcard/mgateway/controller/GatewayController.java
+END
+QrController.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mgateway/!svn/ver/541/trunk/mgateway/src/cn/com/upcard/mgateway/controller/QrController.java
+END
+ApplicationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mgateway/!svn/ver/543/trunk/mgateway/src/cn/com/upcard/mgateway/controller/ApplicationController.java
+END
+BaseController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/mgateway/!svn/ver/482/trunk/mgateway/src/cn/com/upcard/mgateway/controller/BaseController.java
+END

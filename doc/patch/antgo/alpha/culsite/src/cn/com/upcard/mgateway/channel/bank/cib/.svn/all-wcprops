@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib
+END
+WxJsTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/521/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/WxJsTradeOperImpl.java
+END
+WxAppTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mgateway/!svn/ver/460/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/WxAppTradeOperImpl.java
+END
+MicroPayTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/MicroPayTradeOperImpl.java
+END
+AbstractUnifiedOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/539/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/AbstractUnifiedOper.java
+END
+WxNativeTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/520/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/WxNativeTradeOperImpl.java
+END
+AlipayJSPayTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/mgateway/!svn/ver/460/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/AlipayJSPayTradeOperImpl.java
+END
+AlipayNativeTradeOperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/mgateway/!svn/ver/460/trunk/mgateway/src/cn/com/upcard/mgateway/channel/bank/cib/AlipayNativeTradeOperImpl.java
+END

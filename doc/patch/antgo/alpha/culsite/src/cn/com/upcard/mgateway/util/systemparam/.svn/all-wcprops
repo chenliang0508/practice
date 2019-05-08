@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mgateway/!svn/ver/535/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam
+END
+NotifyUrlInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mgateway/!svn/ver/353/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam/NotifyUrlInit.java
+END
+BarcodeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mgateway/!svn/ver/277/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam/BarcodeType.java
+END
+SysPara.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mgateway/!svn/ver/535/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam/SysPara.java
+END
+SpringContextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/123/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam/SpringContextUtil.java
+END
+CommercialInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mgateway/!svn/ver/395/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam/CommercialInfo.java
+END
+SystemParamLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mgateway/!svn/ver/450/trunk/mgateway/src/cn/com/upcard/mgateway/util/systemparam/SystemParamLoader.java
+END

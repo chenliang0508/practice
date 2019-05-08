@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl
+END
+MirocCancelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocCancelTest.java
+END
+MirocQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocQueryTest.java
+END
+MirocPayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocPayTest.java
+END
+MirocRefundQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocRefundQueryTest.java
+END
+ScanPayTradeOperImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/ScanPayTradeOperImplTest.java
+END
+NativePrePayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/NativePrePayTest.java
+END
+NativeCloseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/NativeCloseTest.java
+END
+MirocRefundTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mgateway/!svn/ver/550/tags/online_20171019/test/cn/com/upcard/mgateway/channel/bank/lkl/MirocRefundTest.java
+END

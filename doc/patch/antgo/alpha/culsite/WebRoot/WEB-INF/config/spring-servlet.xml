@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:mvc="http://www.springframework.org/schema/mvc" 
+	xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+	<context:component-scan base-package="cn.com.upcard.mgateway" />
+	
+	  <!-- 启用spring mvc 注解 -->
+    <context:annotation-config />
+
+    <!-- 完成请求和注解POJO的映射 -->
+    <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter" />
+	
+	<!-- 配置多请求数据类型，解决AJAX中文乱码 -->
+	<mvc:annotation-driven>
+		<mvc:message-converters>
+			<bean class="org.springframework.http.converter.StringHttpMessageConverter">
+				<property name="supportedMediaTypes">
+					<list>
+						<value>text/html;charset=UTF-8</value>
+					</list>
+				</property>
+			</bean>
+		</mvc:message-converters>
+	</mvc:annotation-driven>
+ 
+	<mvc:interceptors>
+		<mvc:interceptor>
+			<mvc:mapping path="/**" />
+			<bean class="cn.com.upcard.mgateway.interceptor.HttpRequestLogInterceptor"></bean>
+		</mvc:interceptor>
+	</mvc:interceptors>
+
+	<!-- 将无法mapping到Controller的path交给default servlet handler处理 .这里主要处理静态类资源比如图片，css，js等 -->
+	<mvc:default-servlet-handler />
+
+	<bean id="viewResolver"
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass"
+			value="org.springframework.web.servlet.view.JstlView" />
+		<property name="prefix" value="/WEB-INF/jsp/" />
+		<property name="suffix" value=".jsp" />
+	</bean>
+	
+	<aop:config>
+		<aop:pointcut expression="execution(* cn.com.upcard.mgateway.controller.*Controller.*(..))" id="paramCheck"/>
+		<aop:aspect ref="requestParamAspect">
+			<aop:around method="paramValidator" pointcut-ref="paramCheck"/>		
+		</aop:aspect>
+	</aop:config>
+	<aop:config>
+		<aop:pointcut expression="execution(* cn.com.upcard.mgateway.controller.*Controller.*(..))" id="timeBeginRecord"/>
+		<aop:aspect ref="timeAspect">
+		<aop:before method="begin" pointcut-ref="timeBeginRecord"/>
+		</aop:aspect>
+	</aop:config>
+	<aop:config>
+		<aop:pointcut expression="execution(* cn.com.upcard.mgateway.controller.*Controller.*(..))" id="timeEndRecord"/>
+		<aop:aspect ref="timeAspect">
+		<aop:after-returning method="end" pointcut-ref="timeEndRecord"/>
+		</aop:aspect>
+	</aop:config> 
+	<bean id="SystemParamLoader" class="cn.com.upcard.mgateway.util.systemparam.SystemParamLoader" init-method="init"></bean>
+</beans>
